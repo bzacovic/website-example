@@ -66,7 +66,7 @@ Before you begin, ensure you have met the following requirements:
 - Check that your desired domain name is available, and purchase it from a DNS registrar. (For example [Cloudflare](https://www.cloudflare.com/products/registrar/).)
 
 - Enter the domain into the Settings > Pages tab 
-<img src="README_images/domain.png" width="300"/>
+<img src="README_images/domain.png" width="350"/>
 
 - In the DNS settings of your domain registrar, create a type "CNAME" record that points to `YOUR_USERNAME.github.io`
 
