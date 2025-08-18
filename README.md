@@ -11,7 +11,7 @@ Before you begin, ensure you have met the following requirements:
 - You have a [GitHub account](https://github.com/join).
     Test this by signing in to your account [here](https://github.com/login).
 - You have [Git](https://git-scm.com/) installed on your computer.
-    Test this by opening your terminal and running `git --version`. You should also be able to push and pull files from your local machine to GitHub, either on the command line using SSH or with a tool like GitHub desktop.
+    Test this by opening your terminal and running `git --version`. You should also be able to push and pull files between your local machine and GitHub, either on the command line using SSH or with a tool like GitHub desktop.
 - You have [Quarto](https://quarto.org/docs/get-started/) installed on your computer.
     Test this by opening your terminal and running `quarto --version`.
 
@@ -19,15 +19,17 @@ Before you begin, ensure you have met the following requirements:
 
 1. Fork this repository to make a version of this code on your own GitHub account.
 <img src="README_images/fork.png" width="100"/>
-Note that at this stage you can rename the repository it to something like "personal-website" although this will slightly change the following commands.
+- Note that at this stage you can rename the repository it to something like "personal-website" although this will slightly change the following commands. If you do not have GitHub Pro, you will need to keep the repository public. 
 
 2. Clone the repository onto your local machine.
 - Open your terminal and run `git clone https://github.com/YOUR_USERNAME/website-example.git` to download a coppy of your forked repository. This URL should match what is found from the green "Code" button on your forked repository page. (Alternatively use GitHub desktop for this step)
-<img src="README_images/clone.png" width="200"/>
-- Navigate into the repository folder using `cd website-example` in the terminal.
+<img src="README_images/clone.png" width="300"/>
+- Navigate into the repository folder run `cd website-example` in the terminal.
 
 3. Locally check the website.
-Run `quarto preview` inside the `website-example` directory to render the website locally. This will open a browser window with the website, which you can edit and refresh to see changes. You maybe need to manually copy the given link, which will look like `http://localhost:4290`. Keep this terminal window open while you work on the website, when changes are made they will update in real-time.
+- Run `quarto preview` inside the `website-example` directory to render the website locally. This will open a browser window with the website, which you can edit and refresh to see changes. You maybe need to manually copy the given link, which will look like `http://localhost:6040` (numbers will be randomized). Keep this terminal window open while you work on the website, when changes are made they will update in real-time.
+
+<img src="README_images/preview.png" width="300"/>
 
 4. Customize the website content in any text editor (VS code is convenient)
  - Edit the `index.qmd` file to include your own name, short description, and other personal information. 
@@ -66,7 +68,7 @@ Run `quarto preview` inside the `website-example` directory to render the websit
 
 - In the DNS settings of your domain registrar, create a CNAME record that points to `YOUR_USERNAME.github.io`
 
-- In order for your apex domain (e.g. yourdomain.com) to work, you will need to create four A records that point to the IP addresses `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. Your overall records under "DNS settings" should look like this (for this example the GitHub account `maxjerdee` is using the custom domain `wikifermi.com`):
+- In order for your apex domain (e.g. yourdomain.com) to work, you will need to create four A records that point to the IP addresses `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. Your overall records under "DNS settings" should look like this (in this example the GitHub account `maxjerdee` is using the custom domain `wikifermi.com`):
 <img src="README_images/DNS.png" width="300"/>
 
 8. (Optional) Delete the `README_images` folder from your forked repository and edit this README, these are just instructions to get started. Can replace the `README.md` with something like:
