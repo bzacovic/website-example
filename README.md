@@ -17,18 +17,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Steps
 
-1. **Fork this repository to make a version of this code on your own GitHub account.**
+1. **Fork this repository to make a version of this code on your own GitHub account**
 <img src="README_images/fork.png" width="100"/>
 
 - Note that at this stage you can rename the repository it to something like "personal-website" although this will slightly change the following commands. If you do not have GitHub Pro, you will need to keep the repository public. 
 
-2. **Clone the repository onto your local machine.**
+2. **Clone the repository onto your local machine**
 - Open your terminal and run `git clone https://github.com/YOUR_USERNAME/website-example.git` to download a coppy of your forked repository. This URL should match what is found from the green "Code" button on your forked repository page. (Alternatively use GitHub desktop for this step)
 <img src="README_images/clone.png" width="300"/>
 
 - Navigate into the repository folder run `cd website-example` in the terminal.
 
-3. **Locally check the website.**
+3. **Locally check the website**
 - Run `quarto preview` inside the `website-example` directory to render the website locally. This will open a browser window with the website, which you can edit and refresh to see changes. You maybe need to manually copy the given link, which will look like `http://localhost:6040` (numbers will be randomized). Keep this terminal window open while you work on the website, when changes are made they will update in real-time.
 
 <img src="README_images/preview.png" width="500"/>
@@ -40,7 +40,7 @@ Before you begin, ensure you have met the following requirements:
  - Change `assets/CV.pdf` to a pdf of your own CV. 
  - Play around with the overall theme and layout by changing the `template: solana` in `index.qmd` and `theme: cosmo` in `_quarto.yml` to different options.
 
-5. **Push your edits to your GitHub repository.**
+5. **Push your edits to your GitHub repository**
 - Open your terminal and run `git add .` to stage your changes.
 - Run `git commit -m "Update website content"` to commit your changes.
 - Run `git push` to push your changes to your GitHub repository. (May need to enter credentials)
@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 - After the website has been rendered, back on the Pages tab we can find a link to the website
 <img src="README_images/hosted.png" width="500"/>
 
-7. **(Optional) Host on a custom domain.**
+7. **(Optional) Host on a custom domain**
 - Check that your desired domain name is available, and purchase it from a DNS registrar. (For example [Cloudflare](https://www.cloudflare.com/products/registrar/).)
 
 - Enter the domain into the Settings > Pages tab 
