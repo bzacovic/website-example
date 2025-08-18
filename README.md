@@ -73,6 +73,8 @@ Before you begin, ensure you have met the following requirements:
 - In order for your apex domain (e.g. yourdomain.com) to work, you will need to create four type "A" records that point to the IP addresses `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. Your overall records under "DNS settings" should look like this (in this example the GitHub account `maxjerdee` is using the custom domain `wikifermi.com`):
 <img src="README_images/DNS.png" width="300"/>
 
+- Note that it may take some time for these changes to propagate. 
+
 8. **(Optional) Remove these instructions**
 - Delete the `README_images` folder from your forked repository.
 - Edit this README. Can replace the file with something like:
