@@ -17,36 +17,36 @@ Before you begin, ensure you have met the following requirements:
 
 ### Steps
 
-1. Fork this repository to make a version of this code on your own GitHub account.
+1. **Fork this repository to make a version of this code on your own GitHub account.**
 <img src="README_images/fork.png" width="100"/>
 
 - Note that at this stage you can rename the repository it to something like "personal-website" although this will slightly change the following commands. If you do not have GitHub Pro, you will need to keep the repository public. 
 
-2. Clone the repository onto your local machine.
+2. **Clone the repository onto your local machine.**
 - Open your terminal and run `git clone https://github.com/YOUR_USERNAME/website-example.git` to download a coppy of your forked repository. This URL should match what is found from the green "Code" button on your forked repository page. (Alternatively use GitHub desktop for this step)
 <img src="README_images/clone.png" width="300"/>
 
 - Navigate into the repository folder run `cd website-example` in the terminal.
 
-3. Locally check the website.
+3. **Locally check the website.**
 - Run `quarto preview` inside the `website-example` directory to render the website locally. This will open a browser window with the website, which you can edit and refresh to see changes. You maybe need to manually copy the given link, which will look like `http://localhost:6040` (numbers will be randomized). Keep this terminal window open while you work on the website, when changes are made they will update in real-time.
 
 <img src="README_images/preview.png" width="500"/>
 
-4. Customize the website content in any text editor (VS code is convenient)
+4. **Customize the website content in any text editor (VS code is convenient)**
  - Edit the `index.qmd` file to include your own name, short description, and other personal information. 
  - Edit the `papers.qmd` to reflect your publications or preprints (can also delete this tab by changing the `_quarto.yml` file)
  - Edit `research.qmd` to include your research interests and projects.
  - Change `assets/CV.pdf` to a pdf of your own CV. 
  - Play around with the overall theme and layout by changing the `template: solana` in `index.qmd` and `theme: cosmo` in `_quarto.yml` to different options.
 
-5. Push your edits to your GitHub repository.
+5. **Push your edits to your GitHub repository.**
 - Open your terminal and run `git add .` to stage your changes.
 - Run `git commit -m "Update website content"` to commit your changes.
 - Run `git push` to push your changes to your GitHub repository. (May need to enter credentials)
 - (This can also be done using GitHub desktop).
 
-6. Host using GitHub pages
+6. **Host using GitHub pages**
 - Click on Settings
 <img src="README_images/settings.png" width="500"/>
 
@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 - After the website has been rendered, back on the Pages tab we can find a link to the website
 <img src="README_images/hosted.png" width="500"/>
 
-7. (Optional) Host on a custom domain. 
+7. **(Optional) Host on a custom domain.**
 - Check that your desired domain name is available, and purchase it from a DNS registrar. (For example [Cloudflare](https://www.cloudflare.com/products/registrar/).)
 
 - Enter the domain into the Settings > Pages tab 
@@ -73,7 +73,7 @@ Before you begin, ensure you have met the following requirements:
 - In order for your apex domain (e.g. yourdomain.com) to work, you will need to create four A records that point to the IP addresses `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. Your overall records under "DNS settings" should look like this (in this example the GitHub account `maxjerdee` is using the custom domain `wikifermi.com`):
 <img src="README_images/DNS.png" width="300"/>
 
-8. (Optional) Delete the `README_images` folder from your forked repository and edit this README, these are just instructions to get started. Can replace the `README.md` with something like:
+8. **(Optional) Delete the `README_images` folder from your forked repository and edit this README, these are just instructions to get started. Can replace the `README.md` with something like:**
 
 ```
 ## Your Name's personal website
