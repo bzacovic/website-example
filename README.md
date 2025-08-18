@@ -21,18 +21,20 @@ Before you begin, ensure you have met the following requirements:
 2. Clone the repository to your local machine.
 
 
-3. Edit the `index.qmd` file in the `docs` folder to customize your website content. ()
+3. Edit the `index.qmd` file in the `docs` folder to customize your website content.
 
 
 3. Host using GitHub pages
-![Click on Settings](README_images/settings.png)
-
+- Click on Settings
+<img src="README_images/settings.png" width="200"/>
+- Click on Pages
 ![Click on Pages](README_images/pages.png)
-
+- Select the "master" branch, then the "docs" folder, and click "Save" to tell GitHub where the HTML files can be found
 ![Select the "master" branch, then the "docs" folder, and click "Save"](README_images/docs.png)
+- 
 
 
-
+- After the website has been rendered, back of the Pages tab we can find a link to the website
 ![After the website has been rendered, back of the Pages tab we can find a link to the website](README_images/hosted.png)
 
 4. (Optional) Host on a custom domain. 
