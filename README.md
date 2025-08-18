@@ -19,11 +19,13 @@ Before you begin, ensure you have met the following requirements:
 
 1. Fork this repository to make a version of this code on your own GitHub account.
 <img src="README_images/fork.png" width="100"/>
+
 - Note that at this stage you can rename the repository it to something like "personal-website" although this will slightly change the following commands. If you do not have GitHub Pro, you will need to keep the repository public. 
 
 2. Clone the repository onto your local machine.
 - Open your terminal and run `git clone https://github.com/YOUR_USERNAME/website-example.git` to download a coppy of your forked repository. This URL should match what is found from the green "Code" button on your forked repository page. (Alternatively use GitHub desktop for this step)
 <img src="README_images/clone.png" width="300"/>
+
 - Navigate into the repository folder run `cd website-example` in the terminal.
 
 3. Locally check the website.
