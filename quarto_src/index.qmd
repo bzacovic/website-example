@@ -1,0 +1,20 @@
+---
+title: "Your Name"
+about:
+  template: solana
+  image: assets/profile.jpg # Change this file to a square image of yourself
+  links:
+    - text: "{{< iconify ic outline-email >}} Email"
+      href: mailto:youremail # Change this to your email address
+    - icon: github
+      text: Github
+      href: https://github.com/yourname # Change this to your github account
+    - text: "{{< iconify academicons google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=yourusername # Change this to your Google Scholar
+    - text: "{{< iconify carbon document >}} CV"
+      href: assets/CV.pdf # Change this file to your CV (can replace the file)
+---
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Here is [my research](research.qmd).

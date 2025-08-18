@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: ../docs
+  resources:
+  - "./assets"
+
+website:
+  title: "Your Name" # Change this
+  # favicon: assets/icon.png # Can create an icon for your website (What displays on the tab)
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: papers.qmd
+        text: Papers
+      - href: assets/CV.pdf # Update this file to your CV
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
