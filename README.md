@@ -26,16 +26,19 @@ Before you begin, ensure you have met the following requirements:
 
 3. Host using GitHub pages
 - Click on Settings
-<img src="README_images/settings.png" width="200"/>
+<img src="README_images/settings.png" width="500"/>
+
 - Click on Pages
-![Click on Pages](README_images/pages.png)
+<img src="README_images/pages.png" width="300"/>
+
 - Select the "master" branch, then the "docs" folder, and click "Save" to tell GitHub where the HTML files can be found
-![Select the "master" branch, then the "docs" folder, and click "Save"](README_images/docs.png)
-- 
+<img src="README_images/docs.png" width="400"/>
 
+- Can check the "Actions" tab to see the job where GitHub renders the Quarto markdown files into HTML. Once the deployment is complete a green checkmark will appear (typically less than a minute)
+<img src="README_images/actions.png" width="400"/>
 
-- After the website has been rendered, back of the Pages tab we can find a link to the website
-![After the website has been rendered, back of the Pages tab we can find a link to the website](README_images/hosted.png)
+- After the website has been rendered, back on the Pages tab we can find a link to the website
+<img src="README_images/hosted.png" width="400"/>
 
 4. (Optional) Host on a custom domain. 
 
