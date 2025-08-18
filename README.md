@@ -68,12 +68,14 @@ Before you begin, ensure you have met the following requirements:
 - Enter the domain into the Settings > Pages tab 
 <img src="README_images/domain.png" width="300"/>
 
-- In the DNS settings of your domain registrar, create a CNAME record that points to `YOUR_USERNAME.github.io`
+- In the DNS settings of your domain registrar, create a type "CNAME" record that points to `YOUR_USERNAME.github.io`
 
-- In order for your apex domain (e.g. yourdomain.com) to work, you will need to create four A records that point to the IP addresses `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. Your overall records under "DNS settings" should look like this (in this example the GitHub account `maxjerdee` is using the custom domain `wikifermi.com`):
+- In order for your apex domain (e.g. yourdomain.com) to work, you will need to create four type "A" records that point to the IP addresses `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. Your overall records under "DNS settings" should look like this (in this example the GitHub account `maxjerdee` is using the custom domain `wikifermi.com`):
 <img src="README_images/DNS.png" width="300"/>
 
-8. **(Optional) Delete the `README_images` folder from your forked repository and edit this README, these are just instructions to get started. Can replace the `README.md` with something like:**
+8. **(Optional) Remove these instructions**
+- Delete the `README_images` folder from your forked repository.
+- Edit this README. Can replace the file with something like:
 
 ```
 ## Your Name's personal website
@@ -82,3 +84,8 @@ Hosted at [yourdomain.com](https://www.yourdomain.com/)
 
 Built with the [quarto framework](https://quarto.org/)
 ```
+
+(This will not be seen by those that visit your website anyway).
+
+9. **(Optional) Add more!**
+- Can add a blog, or other tabs about other aspects of your work/life. Here are example repositories behind the personal websites of the authors of this note: [Max Jerdee](maxjerdee.com) and [Bhaskar Kumawat](kumawatb.com).
