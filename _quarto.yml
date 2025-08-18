@@ -11,10 +11,11 @@ website:
     left:
       - href: research.qmd
         text: Research
-      - href: papers.qmd
-        text: Papers
+      - href: papers.qmd # Delete these lines to remove the "Papers" section
+        text: Papers # Delete these lines to remove the "Papers" section
       - href: assets/CV.pdf # Update this file to your CV
         text: CV
+      # Can add more pages here
 
 format:
   html:
