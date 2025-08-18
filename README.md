@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 3. Locally check the website.
 - Run `quarto preview` inside the `website-example` directory to render the website locally. This will open a browser window with the website, which you can edit and refresh to see changes. You maybe need to manually copy the given link, which will look like `http://localhost:6040` (numbers will be randomized). Keep this terminal window open while you work on the website, when changes are made they will update in real-time.
 
-<img src="README_images/preview.png" width="300"/>
+<img src="README_images/preview.png" width="500"/>
 
 4. Customize the website content in any text editor (VS code is convenient)
  - Edit the `index.qmd` file to include your own name, short description, and other personal information. 
