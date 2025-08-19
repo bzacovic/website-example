@@ -1,6 +1,6 @@
 ## Example website
 
-This is a template for developing your own personal academic website using the [quarto framework](https://quarto.org/).
+This is a template for developing your own personal academic website using the [quarto framework](https://quarto.org/). 
 
 After following these steps you should have a basic website that looks [like this](https://maxjerdee.github.io/website-example/) which you can then further customize and expand. 
 
