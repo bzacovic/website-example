@@ -1,14 +1,14 @@
 ---
-title: "Your Name" # Change to your name
+title: "Bailee Zacovic" # Change to your name
 about:
   template: solana # Options: jolla, trestles, solana, marquee, broadside
   image: assets/profile.jpg # Change this file to a square image of yourself
   links:
     - text: "{{< iconify ic outline-email >}} Email"
-      href: mailto:youremail # Change to your email address
+      href: mailto:bzacovic@umich.edu # Change to your email address
     - icon: github
       text: Github
-      href: https://github.com/yourname # Change to your github account
+      href: https://github.com/bzacovic # Change to your github account
     - text: "{{< iconify academicons google-scholar >}} Scholar"
       href: https://scholar.google.com/citations?user=yourusername # Change to your Google Scholar link
     - text: "{{< iconify carbon document >}} CV"
