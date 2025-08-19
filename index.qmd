@@ -12,7 +12,7 @@ about:
     - text: "{{< iconify academicons google-scholar >}} Scholar"
       href: https://scholar.google.com/citations?user=yourusername # Change to your Google Scholar link
     - text: "{{< iconify carbon document >}} CV"
-      href: assets/CV.pdf # Change this file to your CV (replace the file in the assets/ folder)
+      href: ./assets/CV.pdf # Change this file to your CV (replace the file in the assets/ folder)
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
