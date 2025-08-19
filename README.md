@@ -90,4 +90,4 @@ Built with the [quarto framework](https://quarto.org/)
 (This will not be seen by those that visit your website anyway).
 
 9. **(Optional) Add more!**
-- Can add a blog, or other tabs about other aspects of your work/life. Here are example repositories behind the personal websites of the authors of this note: [Max Jerdee](https://www.maxjerdee.com) and [Bhaskar Kumawat](https://www.kumawatb.com).
+- Can add a blog, or other tabs about other aspects of your work/life. Here are example repositories behind the personal websites of the authors of this note: [Max Jerdee](https://github.com/maxjerdee/personal-website) and [Bhaskar Kumawat](https://github.com/aVeryStrangeLoop/aVeryStrangeLoop.github.io).
