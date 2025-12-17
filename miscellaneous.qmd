@@ -1,1 +1,6 @@
 
+
+::: {.columns}
+![](page_1.png){.column width="50%"}
+![](page_2.png){.column width="50%"}
+:::
