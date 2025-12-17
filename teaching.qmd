@@ -2,7 +2,9 @@
 title: "Teaching"
 ---
 
-## Instructor of Record (University of Michigan)
+# Instructor of Record 
+
+## University of Michigan
 
 Fall 2024: MATH 115 (Calculus I)
 
