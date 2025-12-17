@@ -4,10 +4,11 @@ title: "Papers"
 
 ## Pre-prints
 
-(@) **Y. Name**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
+(@) **Zacovic, B.**, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. [Preprint arXiv:2511.07316v2](https://arxiv.org/abs/2511.07316) (2025).
 
 ## Peer reviewed journal publications
 
 (@) **Y. Name**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
 (@) **Y. Name**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
+
 (@) **Y. Name**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
