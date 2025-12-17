@@ -9,8 +9,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/bzacovic # Change to your github account
-    - text: "{{< iconify academicons google-scholar >}} Scholar"
-      href: https://scholar.google.com/citations?user=yourusername # Change to your Google Scholar link
     - text: "{{< iconify carbon document >}} CV"
       href: ./assets/CV.Bailee Zacovic.pdf # Change this file to your CV (replace the file in the assets/ folder)
 ---
