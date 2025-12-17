@@ -1,6 +1,6 @@
 
 
 ::: {.columns}
-![](page_1.png){.column width="50%"}
-![](page_2.png){.column width="50%"}
+![](./assets/Ian MacDonald.png){.column width="50%"}
+![](./assets/Paul Dirac.png){.column width="50%"}
 :::
