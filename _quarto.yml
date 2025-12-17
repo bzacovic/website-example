@@ -5,7 +5,9 @@ project:
   - "./assets"
 
 website:
-  title: "Home" # Change this
+  title: "Bailee Zacovic"
+  description: "Bailee Zacovic's Personal Homepage" # Change this
+  
   # favicon: assets/icon.png # Can create an icon for your website (What displays on the tab)
   navbar:
     left:
