@@ -22,5 +22,4 @@ Broadly, I am interested in algebraic combinatorics and its interactions with pa
 I am grateful for the support of the NSF Graduate Research Fellowship. 
 
 **Office**: 4867 East Hall
-
 **Email**: bzacovic[at]umich[dot]edu
