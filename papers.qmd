@@ -7,9 +7,9 @@ title: "Papers"
 (@) **B. Zacovic**, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. [Preprint arXiv:2511.07316v2](https://arxiv.org/abs/2511.07316) (2025).
 
 ## Peer reviewed journal publications
+(@) **B. Zacovic**, J. Koefler, U. Oktem, S. Paranjape, and J. Trnka, “Uniqueness of MHV Gravity Amplitudes.” *Le Matematiche*, Vol. 80 No. 1 (2025) *https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2743*.
+(@) **B. Zacovic**, M. Cho, A. Dochtermann, R. Inagaki, S. Oh, and D. Snustad, “Chip-Firing
+and Critical Groups of Signed Graphs.” *SIAM Journal on Discrete Mathematics*, Vol. 39, Iss. 2 (2025) *https://epubs.siam.org/doi/abs/10.1137/24M1655287?journalCode=sjdmec*.
+(@) **B. Zacovic**, D. Galvin, and G. Wesley, "Enumerating Threshold Graphs and Some Related GraphClasses.” *Journal of Integer Sequences*, Vol. 25. (2022) *https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf*.
 
-(@) **B. Zacovic**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
-(@) **B. Zacovic**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
-
-(@) **B. Zacovic**, Coauthor 1, and Coauthor 2, Title of the paper. [Preprint arXiv:1234.12345](https://arxiv.org/abs/1234.12345) (2024).
 
