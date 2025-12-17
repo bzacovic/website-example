@@ -11,8 +11,14 @@ website:
     left:
       - href: papers.qmd # Delete these lines to remove the "Papers" section
         text: Papers # Delete these lines to remove the "Papers" section
+      - href: teaching.qmd # Delete these lines to remove the "Papers" section
+        text: Teaching # Delete these lines to remove the "Papers" section
+      - href: outreach.qmd # Delete these lines to remove the "Papers" section
+        text: Outreach # Delete these lines to remove the "Papers" section
       - href: assets/CV.pdf # Update this file to your CV
         text: CV
+      - href: miscellaneous.qmd # Delete these lines to remove the "Papers" section
+        text: Miscellaneous # Delete these lines to remove the "Papers" section
       # Can add more pages here
 
 format:
