@@ -1,37 +1,93 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research interests",
+    "objectID": "calligraphy.html",
+    "href": "calligraphy.html",
+    "title": "Home",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.\n\nTopic 1\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.\n\n\nTopic 2\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.\n\n\nTopic 3\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
+    "text": "Here are a few pieces of my calligraphy, all featuring mathematical quotes. I am always looking for new inspiration; feel free to reach out!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your Name",
+    "title": "Bailee Zacovic",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.\nHere is my research."
+    "text": "Hi! My name is Bailee Zacovic. I am a second-year Ph.D. student at the University of Michigan, Ann Arbor, working with Thomas Lam.\nI completed my bachelor’s degree in Mathematics and Philosophy at the University of Notre Dame, and spent a year at the University of Bonn in Germany.\nBroadly, I am interested in algebraic combinatorics and its interactions with particle physics. I am currently thinking about positive geometries and the combinatorics of scattering amplitudes.\nI am grateful for the support of the NSF Graduate Research Fellowship."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024: MATH 115 (Calculus I)\nWinter/Spring 2025: MATH 116 (Calculus II)"
+  },
+  {
+    "objectID": "teaching.html#university-of-michigan",
+    "href": "teaching.html#university-of-michigan",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024: MATH 115 (Calculus I)\nWinter/Spring 2025: MATH 116 (Calculus II)"
   },
   {
     "objectID": "papers.html",
     "href": "papers.html",
-    "title": "Papers",
+    "title": "Home",
     "section": "",
-    "text": "Y. Name, Coauthor 1, and Coauthor 2, Title of the paper. Preprint arXiv:1234.12345 (2024)."
+    "text": "B. Zacovic, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. Preprint arXiv:2511.07316v2 (2025)."
   },
   {
     "objectID": "papers.html#pre-prints",
     "href": "papers.html#pre-prints",
-    "title": "Papers",
+    "title": "Home",
     "section": "",
-    "text": "Y. Name, Coauthor 1, and Coauthor 2, Title of the paper. Preprint arXiv:1234.12345 (2024)."
+    "text": "B. Zacovic, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. Preprint arXiv:2511.07316v2 (2025)."
   },
   {
     "objectID": "papers.html#peer-reviewed-journal-publications",
     "href": "papers.html#peer-reviewed-journal-publications",
-    "title": "Papers",
+    "title": "Home",
     "section": "Peer reviewed journal publications",
-    "text": "Peer reviewed journal publications\n\nY. Name, Coauthor 1, and Coauthor 2, Title of the paper. Preprint arXiv:1234.12345 (2024).\nY. Name, Coauthor 1, and Coauthor 2, Title of the paper. Preprint arXiv:1234.12345 (2024).\nY. Name, Coauthor 1, and Coauthor 2, Title of the paper. Preprint arXiv:1234.12345 (2024)."
+    "text": "Peer reviewed journal publications\n\nB. Zacovic, J. Koefler, U. Oktem, S. Paranjape, and J. Trnka, “Uniqueness of MHV Gravity Amplitudes.” Le Matematiche, Vol. 80 No. 1 (2025) https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2743.\nB. Zacovic, M. Cho, A. Dochtermann, R. Inagaki, S. Oh, and D. Snustad, “Chip-Firing and Critical Groups of Signed Graphs.” SIAM Journal on Discrete Mathematics, Vol. 39, Iss. 2 (2025) https://epubs.siam.org/doi/abs/10.1137/24M1655287?journalCode=sjdmec.\nB. Zacovic, D. Galvin, and G. Wesley, “Enumerating Threshold Graphs and Some Related GraphClasses.” Journal of Integer Sequences, Vol. 25. (2022) https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Home",
+    "section": "",
+    "text": "I organize a weekly online combinatorics seminar along with Dimitris Bogiokas, Mitsuki Hanada, and Joe McDonough. We’d love to see you!"
+  },
+  {
+    "objectID": "outreach.html#graduate-online-combinatorics-colloquium-gocc-organizer",
+    "href": "outreach.html#graduate-online-combinatorics-colloquium-gocc-organizer",
+    "title": "Home",
+    "section": "",
+    "text": "I organize a weekly online combinatorics seminar along with Dimitris Bogiokas, Mitsuki Hanada, and Joe McDonough. We’d love to see you!"
+  },
+  {
+    "objectID": "outreach.html#directed-reading-program-mentorship",
+    "href": "outreach.html#directed-reading-program-mentorship",
+    "title": "Home",
+    "section": "Directed Reading Program Mentorship",
+    "text": "Directed Reading Program Mentorship\nI served as a project mentor for the Spelman-Morehouse Directed Reading Program (DRP) in the Spring of 2025. I worked with Sydni Jackson on the project “Symmetric functions: their combinatorics and applications,” and we used this wonderful text by Eric S. Egge."
+  },
+  {
+    "objectID": "outreach.html#equity-focused-teaching",
+    "href": "outreach.html#equity-focused-teaching",
+    "title": "Home",
+    "section": "Equity-focused teaching",
+    "text": "Equity-focused teaching\nI am passionate about cultivating mathematical enchantment in K-12 classrooms (and beyond) through inquiry-based pedagogy, and commited to equity-focused teaching practices and inclusive excellence. I am currently working toward the U-M Graduate Teacher Certificate."
+  },
+  {
+    "objectID": "outreach.html#association-for-women-in-mathematics-awm",
+    "href": "outreach.html#association-for-women-in-mathematics-awm",
+    "title": "Home",
+    "section": "Association for Women in Mathematics (AWM)",
+    "text": "Association for Women in Mathematics (AWM)\nI manage the website of the University of Michigan’s Association for Women in Mathematics (AWM). Check out our events and activities!"
+  },
+  {
+    "objectID": "outreach.html#art-of-problem-solving-aops-online",
+    "href": "outreach.html#art-of-problem-solving-aops-online",
+    "title": "Home",
+    "section": "Art of Problem Solving (AoPS Online)",
+    "text": "Art of Problem Solving (AoPS Online)\nSince July 2021, I have served as a grader for the online math community Art of Problem Solving. In this role, I provide guidance, mentorship, and personalized feedback on written homework to students of rigorous math courses to sharpen proof-writing and stimulate critical thinking."
   }
 ]
