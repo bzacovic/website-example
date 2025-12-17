@@ -1,1 +1,8 @@
+---
+title: "Teaching"
+---
 
+## Instructor of Record
+
+Fall 2024: MATH 115 (Calculus I)
+Winter/Spring 2025: MATH 116 (Calculus II)
