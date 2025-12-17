@@ -12,9 +12,15 @@ about:
     - text: "{{< iconify academicons google-scholar >}} Scholar"
       href: https://scholar.google.com/citations?user=yourusername # Change to your Google Scholar link
     - text: "{{< iconify carbon document >}} CV"
-      href: ./assets/CV.pdf # Change this file to your CV (replace the file in the assets/ folder)
+      href: ./assets/CV.Bailee Zacovic.pdf # Change this file to your CV (replace the file in the assets/ folder)
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+Hi! My name is Bailee Zacovic. I am a second-year Ph.D. student at the University of Michigan, Ann Arbor, working with Thomas Lam. 
+
+I completed my bachelor's degree in Mathematics and Philosophy at the University of Notre Dame, and spent a year at the University of Bonn in Germany. 
+
+Broadly, I am interested in algebraic combinatorics and its interactions with particle physics. I am currently thinking about positive geometries and the combinatorics of scattering amplitudes.
+
+I am grateful for the support of the NSF Graduate Research Fellowship.
 
 Here is [my research](research.qmd).
