@@ -1,7 +1,3 @@
----
-title: "Papers"
----
-
 ## Pre-prints
 
 (@) **B. Zacovic**, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. [Preprint arXiv:2511.07316v2](https://arxiv.org/abs/2511.07316) (2025).
@@ -14,6 +10,7 @@ and Critical Groups of Signed Graphs.” *SIAM Journal on Discrete Mathematics*,
 [https://epubs.siam.org/doi/abs/10.1137/24M1655287?journalCode=sjdmec](https://epubs.siam.org/doi/abs/10.1137/24M1655287?journalCode=sjdmec).
 (@) **B. Zacovic**, D. Galvin, and G. Wesley, "Enumerating Threshold Graphs and Some Related GraphClasses.” *Journal of Integer Sequences*, Vol. 25. (2022) 
 [https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf](https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf).
+
 
 
 
