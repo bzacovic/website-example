@@ -1,7 +1,7 @@
 ---
 title: "Bailee Zacovic" # Change to your name
 about:
-  template: solana # Options: jolla, trestles, solana, marquee, broadside
+  template: trestles # Options: jolla, trestles, solana, marquee, broadside
   image: assets/profile.jpg # Change this file to a square image of yourself
   links:
     - text: "{{< iconify ic outline-email >}} Email"
@@ -22,5 +22,3 @@ I completed my bachelor's degree in Mathematics and Philosophy at the University
 Broadly, I am interested in algebraic combinatorics and its interactions with particle physics. I am currently thinking about positive geometries and the combinatorics of scattering amplitudes.
 
 I am grateful for the support of the NSF Graduate Research Fellowship.
-
-Here is [my research](research.qmd).
