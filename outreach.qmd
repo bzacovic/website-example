@@ -1,7 +1,3 @@
----
-title: "Outreach"
----
-
 ## Graduate Online Combinatorics Colloquium (GOCC) Organizer
 
 I organize a weekly [online combinatorics seminar](https://sites.google.com/view/gocc-combinatorics/home?authuser=0) along with Dimitris Bogiokas, Mitsuki Hanada, and Joe McDonough. We'd love to see you!
