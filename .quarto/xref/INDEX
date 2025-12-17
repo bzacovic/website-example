@@ -10,5 +10,14 @@
   },
   "research.qmd": {
     "research.html": "ecfae4a0"
+  },
+  "teaching.qmd": {
+    "teaching.html": "43b30da5"
+  },
+  "outreach.qmd": {
+    "outreach.html": "aaa629c2"
+  },
+  "calligraphy.qmd": {
+    "calligraphy.html": "3d64afd1"
   }
 }
