@@ -13,9 +13,9 @@ about:
       href: ./assets/CV.Bailee Zacovic.pdf # Change this file to your CV (replace the file in the assets/ folder)
 ---
 
-Hi! My name is Bailee Zacovic. I am a second-year Ph.D. student at the University of Michigan, Ann Arbor, working with Thomas Lam. 
+Hi! My name is Bailee. I am a second-year Ph.D. student at the University of Michigan, Ann Arbor, working with Thomas Lam. 
 
-I completed my bachelor's degree in Mathematics and Philosophy at the University of Notre Dame, and spent a year at the University of Bonn in Germany. 
+I completed my bachelor's degree in Mathematics and Philosophy at the University of Notre Dame, and spent a year in the Mathematics Master's Program at the University of Bonn in Germany. 
 
 Broadly, I am interested in algebraic combinatorics and its interactions with particle physics. I am currently thinking about positive geometries and the combinatorics of scattering amplitudes.
 
