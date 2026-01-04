@@ -12,15 +12,16 @@ and Critical Groups of Signed Graphs.” *SIAM Journal on Discrete Mathematics*,
 [https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf](https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf).
 
 ## Posters and presentations
-(@) [Chip-firing](downloads/Chip-firing poster.pdf)
-(@) [The matroid complex and its homology](downloads/The matroid complex and its homology.pdf)
-(@) [The hook length formula](downloads/Hook length formula.pdf)
-(@) [MHV gravity amplitudes](downloads/MHV Gravity.pdf)
+(@) [Chip-firing](./assets/Chip-firing poster.pdf)
+(@) [The matroid complex and its homology](./assets/The matroid complex and its homology.pdf)
+(@) [The hook length formula](./assets/Hook length formula.pdf)
+(@) [MHV gravity amplitudes](./assets/MHV Gravity.pdf)
 
 ## Various notes
-(@) [Algebra II University of Michigan QR Study Guide](downloads/Algebra II QR Exam Guide.pdf)
-(@) [Lie Groups and Lie Algebras](downloads/Lie Groups & Lie Algebras.pdf)
-(@) [Sard's Theorem](downloads/Sard's Theorem.pdf)
+(@) [Algebra II University of Michigan QR Study Guide](./assets/Algebra II QR Exam Guide.pdf)
+(@) [Lie Groups and Lie Algebras](./assets/Lie Groups & Lie Algebras.pdf)
+(@) [Sard's Theorem](./assets/Sard's Theorem.pdf)
+
 
 
 
