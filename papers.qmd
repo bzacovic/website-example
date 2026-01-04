@@ -15,12 +15,13 @@ and Critical Groups of Signed Graphs.” *SIAM Journal on Discrete Mathematics*,
 (@) [Chip-firing](downloads/Chip-firing poster.pdf)
 (@) [The matroid complex and its homology](downloads/The matroid complex and its homology.pdf)
 (@) [The hook length formula](downloads/Hook length formula.pdf)
-(@) [MHV Gravity Amplitudes](downloads/MHV Gravity.pdf)
+(@) [MHV gravity amplitudes](downloads/MHV Gravity.pdf)
 
-## various notes
+## Various notes
 (@) [Algebra II University of Michigan QR Study Guide](downloads/Algebra II QR Exam Guide.pdf)
 (@) [Lie Groups and Lie Algebras](downloads/Lie Groups & Lie Algebras.pdf)
 (@) [Sard's Theorem](downloads/Sard's Theorem.pdf)
+
 
 
 
