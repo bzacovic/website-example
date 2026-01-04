@@ -11,6 +11,17 @@ and Critical Groups of Signed Graphs.” *SIAM Journal on Discrete Mathematics*,
 (@) **B. Zacovic**, D. Galvin, and G. Wesley, "Enumerating Threshold Graphs and Some Related GraphClasses.” *Journal of Integer Sequences*, Vol. 25. (2022) 
 [https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf](https://cs.uwaterloo.ca/journals/JIS/VOL25/Galvin/galvin2.pdf).
 
+## Posters and presentations
+(@) [Chip-firing](downloads/Chip-firing poster.pdf)
+(@) [The matroid complex and its homology](downloads/The matroid complex and its homology.pdf)
+(@) [The hook length formula](downloads/Hook length formula.pdf)
+(@) [MHV Gravity Amplitudes](downloads/MHV Gravity.pdf)
+
+## various notes
+(@) [Algebra II University of Michigan QR Study Guide](downloads/Algebra II QR Exam Guide.pdf)
+(@) [Lie Groups and Lie Algebras](downloads/Lie Groups & Lie Algebras.pdf)
+(@) [Sard's Theorem](downloads/Sard's Theorem.pdf)
+
 
 
 
