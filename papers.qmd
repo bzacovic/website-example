@@ -16,11 +16,14 @@ and Critical Groups of Signed Graphs.” *SIAM Journal on Discrete Mathematics*,
 (@) [The matroid complex and its homology](./assets/The matroid complex and its homology.pdf)
 (@) [The hook length formula](./assets/Hook length formula.pdf)
 (@) [MHV gravity amplitudes](./assets/MHV Gravity.pdf)
+(@) [Tropical Hypersurfaces and the Fundamental Theorem](./assets/Tropical Hypersurfaces and the Fundamental Theorem.pdf)
 
 ## Various notes
 (@) [Algebra II University of Michigan QR Study Guide](./assets/Algebra II QR Exam Guide.pdf)
 (@) [Lie Groups and Lie Algebras](./assets/Lie Groups & Lie Algebras.pdf)
 (@) [Sard's Theorem](./assets/Sard's Theorem.pdf)
+
+
 
 
 
